@@ -1,0 +1,7069 @@
+[
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_014.jpg",
+        "image_id": 1,
+        "height": 574,
+        "width": 847,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    510,
+                    167,
+                    107,
+                    223
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    104,
+                    329,
+                    106,
+                    209
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    209,
+                    302,
+                    97,
+                    186
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    40,
+                    49,
+                    246,
+                    121
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    752,
+                    219,
+                    87,
+                    149
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_015.jpg",
+        "image_id": 2,
+        "height": 652,
+        "width": 432,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    80,
+                    108,
+                    164,
+                    75
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    98,
+                    206,
+                    151,
+                    305
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    293,
+                    97,
+                    139,
+                    153
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_016.jpg",
+        "image_id": 3,
+        "height": 393,
+        "width": 567,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    20,
+                    24,
+                    547,
+                    226
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_024.jpg",
+        "image_id": 4,
+        "height": 450,
+        "width": 300,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    12,
+                    6,
+                    280,
+                    444
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_031.jpg",
+        "image_id": 5,
+        "height": 377,
+        "width": 564,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    211,
+                    80,
+                    144,
+                    288
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_039.jpg",
+        "image_id": 6,
+        "height": 600,
+        "width": 800,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    158,
+                    117,
+                    433,
+                    483
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_045.jpg",
+        "image_id": 7,
+        "height": 450,
+        "width": 300,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    22,
+                    6,
+                    216,
+                    444
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_047.jpg",
+        "image_id": 8,
+        "height": 219,
+        "width": 330,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    62,
+                    18,
+                    86,
+                    75
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    113,
+                    82,
+                    189,
+                    99
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    89,
+                    97,
+                    46,
+                    84
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    247,
+                    23,
+                    83,
+                    53
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_055.jpg",
+        "image_id": 9,
+        "height": 300,
+        "width": 300,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    84,
+                    61,
+                    66,
+                    34
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    98,
+                    105,
+                    44,
+                    81
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    155,
+                    68,
+                    35,
+                    96
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_057.jpg",
+        "image_id": 10,
+        "height": 312,
+        "width": 498,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    128,
+                    100,
+                    39,
+                    90
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    140,
+                    3,
+                    79,
+                    43
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    176,
+                    79,
+                    58,
+                    47
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    173,
+                    125,
+                    70,
+                    92
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    130,
+                    39,
+                    120
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    230,
+                    102,
+                    39,
+                    95
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    295,
+                    87,
+                    23,
+                    56
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    72,
+                    77,
+                    38,
+                    103
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    35,
+                    29,
+                    35,
+                    72
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_060.jpg",
+        "image_id": 11,
+        "height": 700,
+        "width": 465,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    72,
+                    384,
+                    68,
+                    135
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    149,
+                    442,
+                    90,
+                    141
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    251,
+                    421,
+                    99,
+                    131
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    118,
+                    314,
+                    72,
+                    78
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    223,
+                    192,
+                    50,
+                    64
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    309,
+                    144,
+                    36,
+                    51
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    166,
+                    22,
+                    66,
+                    113
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    69,
+                    25,
+                    90,
+                    46
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    98,
+                    119,
+                    69,
+                    95
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_061.jpg",
+        "image_id": 12,
+        "height": 2091,
+        "width": 2978,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    989,
+                    160,
+                    1278,
+                    1014
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_066.jpg",
+        "image_id": 13,
+        "height": 400,
+        "width": 600,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    10,
+                    104,
+                    554,
+                    289
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_073.jpg",
+        "image_id": 14,
+        "height": 1440,
+        "width": 2160,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    882,
+                    217,
+                    836,
+                    992
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoearlyblightleaf_076.jpg",
+        "image_id": 15,
+        "height": 734,
+        "width": 1063,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    584,
+                    317,
+                    436,
+                    254
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    298,
+                    221,
+                    156,
+                    349
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaf_005.jpg",
+        "image_id": 16,
+        "height": 735,
+        "width": 1023,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    576,
+                    345,
+                    151,
+                    205
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    28,
+                    336,
+                    224,
+                    131
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    248,
+                    402,
+                    115,
+                    188
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    164,
+                    213,
+                    145,
+                    146
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    242,
+                    174,
+                    149,
+                    105
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    428,
+                    303,
+                    132,
+                    60
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    557,
+                    278,
+                    183,
+                    66
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    723,
+                    182,
+                    66,
+                    173
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    782,
+                    327,
+                    224,
+                    118
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    512,
+                    606,
+                    152,
+                    71
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    412,
+                    603,
+                    104,
+                    69
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    503,
+                    653,
+                    69,
+                    67
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    554,
+                    65,
+                    88,
+                    138
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    393,
+                    25,
+                    148,
+                    125
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    561,
+                    193,
+                    99,
+                    42
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    494,
+                    124,
+                    69,
+                    88
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    438,
+                    145,
+                    109,
+                    73
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    336,
+                    408,
+                    88,
+                    111
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaf_014.jpg",
+        "image_id": 17,
+        "height": 1365,
+        "width": 1024,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    518,
+                    934,
+                    78,
+                    172
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    606,
+                    660,
+                    68,
+                    84
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    428,
+                    504,
+                    114,
+                    72
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    144,
+                    866,
+                    108,
+                    126
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    254,
+                    828,
+                    74,
+                    106
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    732,
+                    784,
+                    78,
+                    100
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    596,
+                    564,
+                    92,
+                    92
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaf_019.jpg",
+        "image_id": 18,
+        "height": 1205,
+        "width": 1600,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    566,
+                    298,
+                    789,
+                    436
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    366,
+                    592,
+                    606,
+                    457
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    58,
+                    7,
+                    419,
+                    504
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaf_025.jpg",
+        "image_id": 19,
+        "height": 2667,
+        "width": 2000,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    730,
+                    1525,
+                    273,
+                    600
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    515,
+                    1878,
+                    611,
+                    789
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    238,
+                    1202,
+                    485,
+                    411
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    269,
+                    625,
+                    546,
+                    554
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1353,
+                    990,
+                    424,
+                    416
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1057,
+                    1517,
+                    543,
+                    381
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1461,
+                    1736,
+                    339,
+                    520
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1665,
+                    1540,
+                    335,
+                    269
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaf_026.jpg",
+        "image_id": 20,
+        "height": 470,
+        "width": 450,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    331,
+                    153,
+                    107,
+                    101
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    299,
+                    259,
+                    147,
+                    61
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    248,
+                    165,
+                    97,
+                    117
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    206,
+                    214,
+                    67,
+                    114
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    276,
+                    313,
+                    107,
+                    63
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaf_039.jpg",
+        "image_id": 21,
+        "height": 1536,
+        "width": 2048,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    816,
+                    948,
+                    779,
+                    331
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    171,
+                    461,
+                    627,
+                    497
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    840,
+                    478,
+                    572,
+                    460
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaf_041.jpg",
+        "image_id": 22,
+        "height": 2592,
+        "width": 3872,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    2083,
+                    824,
+                    577,
+                    1319
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    307,
+                    1062,
+                    1467,
+                    1071
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1545,
+                    305,
+                    738,
+                    757
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    3098,
+                    886,
+                    695,
+                    1167
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaf_045.jpg",
+        "image_id": 23,
+        "height": 273,
+        "width": 450,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    197,
+                    42,
+                    47,
+                    84
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    227,
+                    130,
+                    31,
+                    23
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    232,
+                    144,
+                    32,
+                    23
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    242,
+                    162,
+                    26,
+                    34
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    242,
+                    202,
+                    32,
+                    29
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    188,
+                    134,
+                    40,
+                    36
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    190,
+                    163,
+                    35,
+                    27
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    191,
+                    179,
+                    36,
+                    32
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    194,
+                    226,
+                    39,
+                    30
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaf_051.jpg",
+        "image_id": 24,
+        "height": 2448,
+        "width": 3264,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1039,
+                    447,
+                    796,
+                    1150
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1766,
+                    185,
+                    939,
+                    1062
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1612,
+                    1197,
+                    1558,
+                    792
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    485,
+                    1485,
+                    824,
+                    719
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    347,
+                    904,
+                    646,
+                    523
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    785,
+                    24,
+                    658,
+                    427
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    662,
+                    524,
+                    577,
+                    411
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1224,
+                    1985,
+                    950,
+                    463
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaf_053.jpg",
+        "image_id": 25,
+        "height": 2592,
+        "width": 3888,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1687,
+                    1229,
+                    1133,
+                    738
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    625,
+                    1400,
+                    1371,
+                    853
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    2077,
+                    719,
+                    1533,
+                    595
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaf_054.jpg",
+        "image_id": 26,
+        "height": 682,
+        "width": 1024,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    77,
+                    13,
+                    435,
+                    455
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    310,
+                    87,
+                    508,
+                    358
+                ],
+                "bbox_mode": 1,
+                "category_id": 1
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_001.jpg",
+        "image_id": 27,
+        "height": 666,
+        "width": 499,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    346,
+                    78,
+                    94,
+                    180
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    82,
+                    14,
+                    104,
+                    264
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    67,
+                    205,
+                    152,
+                    317
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    186,
+                    202,
+                    167,
+                    349
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_017.jpg",
+        "image_id": 28,
+        "height": 479,
+        "width": 638,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    80,
+                    282,
+                    221,
+                    147
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_022.jpg",
+        "image_id": 29,
+        "height": 272,
+        "width": 600,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    335,
+                    4,
+                    258,
+                    146
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    4,
+                    18,
+                    264,
+                    203
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_025.jpg",
+        "image_id": 30,
+        "height": 561,
+        "width": 800,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    13,
+                    21,
+                    786,
+                    452
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_034.jpg",
+        "image_id": 31,
+        "height": 384,
+        "width": 221,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    10,
+                    6,
+                    205,
+                    316
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_037.jpg",
+        "image_id": 32,
+        "height": 286,
+        "width": 285,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    66,
+                    56,
+                    68
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    142,
+                    111,
+                    143,
+                    132
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    74,
+                    148,
+                    97,
+                    128
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    74,
+                    8,
+                    96,
+                    135
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_039.jpg",
+        "image_id": 33,
+        "height": 300,
+        "width": 460,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    9,
+                    156,
+                    216,
+                    138
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    241,
+                    151,
+                    193,
+                    149
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    4,
+                    9,
+                    225,
+                    126
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_043.jpg",
+        "image_id": 34,
+        "height": 194,
+        "width": 300,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    52,
+                    8,
+                    216,
+                    184
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_045.jpg",
+        "image_id": 35,
+        "height": 900,
+        "width": 600,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    442,
+                    13,
+                    156,
+                    286
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    130,
+                    64,
+                    243,
+                    596
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_052.jpg",
+        "image_id": 36,
+        "height": 196,
+        "width": 326,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    43,
+                    14,
+                    219,
+                    146
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_056.jpg",
+        "image_id": 37,
+        "height": 460,
+        "width": 613,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    112,
+                    279,
+                    108,
+                    150
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    319,
+                    1,
+                    271,
+                    240
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    162,
+                    21,
+                    133,
+                    197
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    46,
+                    47,
+                    168,
+                    152
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    247,
+                    89,
+                    130
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    479,
+                    255,
+                    134,
+                    205
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    435,
+                    272,
+                    71,
+                    38
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    376,
+                    231,
+                    62,
+                    128
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    213,
+                    246,
+                    145,
+                    209
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    349,
+                    109,
+                    58,
+                    107
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_059.jpg",
+        "image_id": 38,
+        "height": 1024,
+        "width": 1023,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    119,
+                    100,
+                    842,
+                    722
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_066.jpg",
+        "image_id": 39,
+        "height": 625,
+        "width": 419,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    21,
+                    16,
+                    397,
+                    587
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_072.jpg",
+        "image_id": 40,
+        "height": 800,
+        "width": 600,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    70,
+                    172,
+                    383,
+                    621
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_080.jpg",
+        "image_id": 41,
+        "height": 195,
+        "width": 288,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    71,
+                    6,
+                    126,
+                    154
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_087.jpg",
+        "image_id": 42,
+        "height": 640,
+        "width": 480,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    14,
+                    53,
+                    375,
+                    436
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_095.jpg",
+        "image_id": 43,
+        "height": 258,
+        "width": 430,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    223,
+                    43,
+                    122,
+                    201
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    138,
+                    104,
+                    107,
+                    154
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_099.jpg",
+        "image_id": 44,
+        "height": 598,
+        "width": 900,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    139,
+                    210,
+                    165,
+                    201
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    636,
+                    224,
+                    154,
+                    356
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    407,
+                    169,
+                    139,
+                    261
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_100.jpg",
+        "image_id": 45,
+        "height": 1000,
+        "width": 1500,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1247,
+                    476,
+                    240,
+                    460
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    17,
+                    204,
+                    254,
+                    229
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    279,
+                    180,
+                    180,
+                    309
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    588,
+                    267,
+                    343,
+                    473
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafbacterialspot_101.jpg",
+        "image_id": 46,
+        "height": 3000,
+        "width": 4000,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1065,
+                    512,
+                    1907,
+                    1645
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_001.jpg",
+        "image_id": 47,
+        "height": 600,
+        "width": 600,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    69,
+                    11,
+                    418,
+                    572
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_004.jpg",
+        "image_id": 48,
+        "height": 420,
+        "width": 500,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    236,
+                    40,
+                    238,
+                    332
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    41,
+                    87,
+                    161,
+                    265
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_006.jpg",
+        "image_id": 49,
+        "height": 517,
+        "width": 640,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    12,
+                    10,
+                    620,
+                    496
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_013.jpg",
+        "image_id": 50,
+        "height": 285,
+        "width": 563,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    14,
+                    64,
+                    264,
+                    165
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_018.jpg",
+        "image_id": 51,
+        "height": 960,
+        "width": 1280,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    273,
+                    37,
+                    986,
+                    915
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_025.jpg",
+        "image_id": 52,
+        "height": 444,
+        "width": 662,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    192,
+                    16,
+                    301,
+                    381
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_028.jpg",
+        "image_id": 53,
+        "height": 604,
+        "width": 802,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    226,
+                    3,
+                    375,
+                    295
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    245,
+                    267,
+                    453,
+                    329
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    81,
+                    2,
+                    340,
+                    448
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_033.jpg",
+        "image_id": 54,
+        "height": 2048,
+        "width": 1536,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    329,
+                    164,
+                    974,
+                    1865
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_035.jpg",
+        "image_id": 55,
+        "height": 421,
+        "width": 1200,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    26,
+                    6,
+                    525,
+                    212
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    6,
+                    166,
+                    480,
+                    243
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_038.jpg",
+        "image_id": 56,
+        "height": 2048,
+        "width": 1536,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    264,
+                    461,
+                    501,
+                    888
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    899,
+                    1184,
+                    622,
+                    570
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    996,
+                    543,
+                    540,
+                    491
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    454,
+                    161,
+                    459,
+                    883
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_042.jpg",
+        "image_id": 57,
+        "height": 600,
+        "width": 800,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    31,
+                    120,
+                    756,
+                    445
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_049.jpg",
+        "image_id": 58,
+        "height": 491,
+        "width": 500,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    13,
+                    124,
+                    426,
+                    321
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_056.jpg",
+        "image_id": 59,
+        "height": 1600,
+        "width": 1200,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    18,
+                    10,
+                    1115,
+                    1566
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_062.jpg",
+        "image_id": 60,
+        "height": 561,
+        "width": 604,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    75,
+                    9,
+                    528,
+                    397
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_070.jpg",
+        "image_id": 61,
+        "height": 1304,
+        "width": 1300,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    174,
+                    171,
+                    1032,
+                    859
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_078.jpg",
+        "image_id": 62,
+        "height": 2272,
+        "width": 1704,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    12,
+                    1667,
+                    2247
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_081.jpg",
+        "image_id": 63,
+        "height": 266,
+        "width": 400,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    122,
+                    1,
+                    83,
+                    93
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    104,
+                    46,
+                    63,
+                    136
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    189,
+                    126,
+                    201,
+                    121
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_084.jpg",
+        "image_id": 64,
+        "height": 900,
+        "width": 1200,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    453,
+                    279,
+                    272,
+                    204
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    949,
+                    447,
+                    251,
+                    130
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    174,
+                    36,
+                    223,
+                    415
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    350,
+                    38,
+                    242,
+                    453
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    760,
+                    7,
+                    303,
+                    270
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    976,
+                    557,
+                    209,
+                    264
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    703,
+                    529,
+                    241,
+                    281
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    652,
+                    296,
+                    251,
+                    243
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    398,
+                    563,
+                    283,
+                    336
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    277,
+                    502,
+                    263,
+                    225
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    95,
+                    424,
+                    250,
+                    372
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    4,
+                    158,
+                    178,
+                    448
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_085.jpg",
+        "image_id": 65,
+        "height": 1000,
+        "width": 1000,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    231,
+                    667,
+                    322,
+                    301
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    87,
+                    68,
+                    700,
+                    932
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleaflateblight_096.jpg",
+        "image_id": 66,
+        "height": 258,
+        "width": 400,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    2,
+                    54,
+                    281,
+                    185
+                ],
+                "bbox_mode": 1,
+                "category_id": 2
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafmosaicvirus_003.jpg",
+        "image_id": 67,
+        "height": 280,
+        "width": 347,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    254,
+                    105,
+                    79,
+                    83
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    214,
+                    126,
+                    53,
+                    92
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    126,
+                    120,
+                    77,
+                    98
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    15,
+                    82,
+                    142,
+                    86
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    123,
+                    29,
+                    83,
+                    87
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafmosaicvirus_004.jpg",
+        "image_id": 68,
+        "height": 244,
+        "width": 173,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    98,
+                    140,
+                    71,
+                    81
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    3,
+                    116,
+                    58,
+                    83
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    39,
+                    5,
+                    90,
+                    116
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafmosaicvirus_009.jpg",
+        "image_id": 69,
+        "height": 256,
+        "width": 341,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    69,
+                    103,
+                    92,
+                    114
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    178,
+                    127,
+                    112,
+                    107
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    155,
+                    87,
+                    80,
+                    83
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    144,
+                    71,
+                    104,
+                    42
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafmosaicvirus_013.jpg",
+        "image_id": 70,
+        "height": 321,
+        "width": 300,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    62,
+                    81,
+                    31,
+                    32
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    70,
+                    119,
+                    37,
+                    24
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    80,
+                    38,
+                    43,
+                    60
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    64,
+                    156,
+                    38,
+                    39
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    180,
+                    211,
+                    35,
+                    60
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafmosaicvirus_015.jpg",
+        "image_id": 71,
+        "height": 640,
+        "width": 478,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    160,
+                    41,
+                    282,
+                    575
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafmosaicvirus_020.jpg",
+        "image_id": 72,
+        "height": 400,
+        "width": 300,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    8,
+                    262,
+                    142,
+                    131
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    216,
+                    345,
+                    60,
+                    55
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    143,
+                    326,
+                    64,
+                    70
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    224,
+                    285,
+                    68,
+                    51
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    233,
+                    206,
+                    50,
+                    61
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    131,
+                    216,
+                    71,
+                    94
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    93,
+                    164,
+                    123,
+                    109
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    53,
+                    105,
+                    118,
+                    58
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    130,
+                    4,
+                    73,
+                    107
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafmosaicvirus_028.jpg",
+        "image_id": 73,
+        "height": 150,
+        "width": 150,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    3,
+                    3,
+                    145,
+                    145
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafmosaicvirus_031.jpg",
+        "image_id": 74,
+        "height": 280,
+        "width": 347,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    239,
+                    199,
+                    76,
+                    57
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    240,
+                    135,
+                    56,
+                    76
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    12,
+                    110,
+                    118,
+                    94
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    221,
+                    12,
+                    67,
+                    89
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    202,
+                    75,
+                    30,
+                    35
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    205,
+                    116,
+                    33,
+                    47
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    89,
+                    37,
+                    82,
+                    82
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    133,
+                    124,
+                    72,
+                    89
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafmosaicvirus_038.jpg",
+        "image_id": 75,
+        "height": 375,
+        "width": 500,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    410,
+                    208,
+                    86,
+                    53
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    150,
+                    140,
+                    69,
+                    70
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    120,
+                    286,
+                    69,
+                    78
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    230,
+                    263,
+                    89,
+                    64
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    332,
+                    52,
+                    161,
+                    143
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    246,
+                    131,
+                    98,
+                    113
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    127,
+                    59,
+                    116,
+                    103
+                ],
+                "bbox_mode": 1,
+                "category_id": 4
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_002.jpg",
+        "image_id": 76,
+        "height": 273,
+        "width": 620,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    510,
+                    111,
+                    101,
+                    157
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    213,
+                    86,
+                    162,
+                    150
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_011.jpg",
+        "image_id": 77,
+        "height": 320,
+        "width": 295,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    13,
+                    51,
+                    97,
+                    79
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    157,
+                    47,
+                    127,
+                    78
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    13,
+                    188,
+                    129,
+                    71
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    151,
+                    176,
+                    142,
+                    86
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    91,
+                    20,
+                    98,
+                    175
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_015.jpg",
+        "image_id": 78,
+        "height": 731,
+        "width": 1024,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    830,
+                    329,
+                    90,
+                    65
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    659,
+                    317,
+                    85,
+                    62
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    617,
+                    308,
+                    36,
+                    66
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    240,
+                    323,
+                    48,
+                    83
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    307,
+                    334,
+                    61,
+                    63
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    393,
+                    366,
+                    72,
+                    51
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    457,
+                    265,
+                    53,
+                    71
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    522,
+                    324,
+                    66,
+                    46
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    35,
+                    48,
+                    183,
+                    193
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    226,
+                    161,
+                    118,
+                    131
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    851,
+                    229,
+                    129,
+                    197
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    840,
+                    1,
+                    182,
+                    186
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    583,
+                    1,
+                    182,
+                    153
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    163,
+                    1,
+                    270,
+                    175
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    273,
+                    501,
+                    112,
+                    118
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    406,
+                    284,
+                    188
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    519,
+                    95,
+                    323,
+                    126
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    660,
+                    196,
+                    129,
+                    137
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    785,
+                    433,
+                    151,
+                    212
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    704,
+                    403,
+                    113,
+                    205
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    418,
+                    440,
+                    159,
+                    138
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    312,
+                    450,
+                    215,
+                    226
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    497,
+                    381,
+                    178,
+                    196
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_019.jpg",
+        "image_id": 79,
+        "height": 750,
+        "width": 1500,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1017,
+                    660,
+                    93,
+                    90
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    225,
+                    231,
+                    76,
+                    35
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    374,
+                    339,
+                    66,
+                    92
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    557,
+                    280,
+                    97,
+                    80
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    768,
+                    353,
+                    58,
+                    34
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    816,
+                    292,
+                    56,
+                    51
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    760,
+                    481,
+                    15,
+                    65
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    789,
+                    479,
+                    34,
+                    31
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    768,
+                    427,
+                    45,
+                    37
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    646,
+                    443,
+                    40,
+                    65
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    696,
+                    458,
+                    19,
+                    36
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    727,
+                    445,
+                    22,
+                    32
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1010,
+                    441,
+                    44,
+                    67
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1079,
+                    432,
+                    35,
+                    50
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1163,
+                    405,
+                    22,
+                    27
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1228,
+                    386,
+                    33,
+                    79
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1288,
+                    379,
+                    46,
+                    59
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    862,
+                    545,
+                    54,
+                    61
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_021.jpg",
+        "image_id": 80,
+        "height": 1600,
+        "width": 1200,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    600,
+                    1227,
+                    158,
+                    268
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    89,
+                    233,
+                    198,
+                    512
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    804,
+                    196,
+                    260,
+                    911
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    476,
+                    380,
+                    343,
+                    762
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_022.jpg",
+        "image_id": 81,
+        "height": 685,
+        "width": 1024,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    470,
+                    401,
+                    156,
+                    93
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    575,
+                    350,
+                    46,
+                    60
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    115,
+                    620,
+                    37,
+                    60
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    125,
+                    535,
+                    46,
+                    64
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    164,
+                    556,
+                    40,
+                    45
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    386,
+                    307,
+                    59,
+                    38
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    375,
+                    362,
+                    69,
+                    73
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    649,
+                    417,
+                    86,
+                    52
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    870,
+                    325,
+                    154,
+                    72
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    812,
+                    352,
+                    57,
+                    64
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    611,
+                    198,
+                    51,
+                    82
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    641,
+                    322,
+                    70,
+                    86
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    717,
+                    353,
+                    49,
+                    62
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    228,
+                    438,
+                    51,
+                    57
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    280,
+                    440,
+                    72,
+                    82
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    182,
+                    482,
+                    40,
+                    63
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    237,
+                    548,
+                    41,
+                    63
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    221,
+                    316,
+                    67,
+                    44
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    532,
+                    221,
+                    69,
+                    114
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    749,
+                    207,
+                    50,
+                    111
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    480,
+                    507,
+                    142,
+                    69
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    637,
+                    567,
+                    115,
+                    91
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    445,
+                    442,
+                    53,
+                    59
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    368,
+                    432,
+                    70,
+                    62
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    196,
+                    387,
+                    66,
+                    62
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    223,
+                    231,
+                    70,
+                    70
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    257,
+                    178,
+                    76,
+                    89
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    24,
+                    302,
+                    122,
+                    136
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    462,
+                    106,
+                    123
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    272,
+                    593,
+                    170,
+                    86
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    327,
+                    502,
+                    153,
+                    107
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    389,
+                    500,
+                    72,
+                    74
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_024.jpg",
+        "image_id": 82,
+        "height": 194,
+        "width": 259,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    25,
+                    1,
+                    43,
+                    33
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    34,
+                    134,
+                    19,
+                    30
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    19,
+                    82,
+                    36,
+                    46
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    61,
+                    75,
+                    37,
+                    75
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    70,
+                    15,
+                    32,
+                    49
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    110,
+                    23,
+                    35,
+                    45
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    86,
+                    82,
+                    29,
+                    42
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    180,
+                    73,
+                    79,
+                    80
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    134,
+                    3,
+                    75,
+                    83
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    107,
+                    95,
+                    51,
+                    99
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_031.jpg",
+        "image_id": 83,
+        "height": 170,
+        "width": 115,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    32,
+                    41,
+                    50,
+                    23
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    10,
+                    2,
+                    89,
+                    24
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    38,
+                    26,
+                    26,
+                    17
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    32,
+                    137,
+                    10,
+                    22
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    27,
+                    111,
+                    10,
+                    23
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    46,
+                    98,
+                    12,
+                    18
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    64,
+                    130,
+                    10,
+                    19
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_047.jpg",
+        "image_id": 84,
+        "height": 479,
+        "width": 638,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    30,
+                    274,
+                    76,
+                    53
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    134,
+                    250,
+                    89,
+                    46
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    76,
+                    164,
+                    49,
+                    84
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    447,
+                    322,
+                    115,
+                    77
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    429,
+                    236,
+                    115,
+                    76
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_048.jpg",
+        "image_id": 85,
+        "height": 520,
+        "width": 544,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    151,
+                    385,
+                    71,
+                    95
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    290,
+                    233,
+                    54,
+                    29
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    382,
+                    315,
+                    29,
+                    30
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    278,
+                    145,
+                    58,
+                    73
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    63,
+                    177,
+                    128,
+                    76
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    167,
+                    84,
+                    96,
+                    84
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    283,
+                    41,
+                    40,
+                    77
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    213,
+                    224,
+                    62,
+                    52
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    325,
+                    375,
+                    62,
+                    48
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    330,
+                    315,
+                    46,
+                    29
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    187,
+                    296,
+                    26,
+                    33
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    133,
+                    331,
+                    48,
+                    52
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_049.jpg",
+        "image_id": 86,
+        "height": 345,
+        "width": 460,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    297,
+                    131,
+                    33,
+                    50
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    127,
+                    29,
+                    64,
+                    52
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    179,
+                    82,
+                    41,
+                    45
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    164,
+                    141,
+                    77,
+                    42
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    115,
+                    228,
+                    76,
+                    56
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    239,
+                    210,
+                    59,
+                    78
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_062.jpg",
+        "image_id": 87,
+        "height": 540,
+        "width": 510,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    93,
+                    469,
+                    143,
+                    63
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    284,
+                    405,
+                    69,
+                    77
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    171,
+                    213,
+                    58,
+                    107
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    368,
+                    159,
+                    106,
+                    58
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    320,
+                    199,
+                    60,
+                    99
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    295,
+                    173,
+                    58,
+                    60
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    338,
+                    127,
+                    74,
+                    40
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    83,
+                    140,
+                    68,
+                    56
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    128,
+                    140,
+                    80,
+                    140
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    243,
+                    186,
+                    73,
+                    122
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    231,
+                    286,
+                    85,
+                    66
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    126,
+                    349,
+                    137,
+                    115
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    417,
+                    302,
+                    93,
+                    139
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    331,
+                    388,
+                    130,
+                    140
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_063.jpg",
+        "image_id": 88,
+        "height": 750,
+        "width": 515,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    298,
+                    601,
+                    67,
+                    56
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    253,
+                    6,
+                    119,
+                    185
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    166,
+                    172,
+                    108,
+                    81
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    294,
+                    201,
+                    95,
+                    59
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    393,
+                    488,
+                    89,
+                    58
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    356,
+                    403,
+                    103,
+                    74
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    225,
+                    300,
+                    40,
+                    54
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    150,
+                    311,
+                    92,
+                    65
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    324,
+                    299,
+                    86,
+                    52
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoleafyellowvirus_064.jpg",
+        "image_id": 89,
+        "height": 768,
+        "width": 1024,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    414,
+                    209,
+                    72,
+                    53
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    272,
+                    696,
+                    96,
+                    72
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    169,
+                    493,
+                    132,
+                    71
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    27,
+                    555,
+                    176,
+                    139
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    350,
+                    470,
+                    157,
+                    115
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    372,
+                    564,
+                    210,
+                    156
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    457,
+                    352,
+                    121,
+                    52
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    642,
+                    333,
+                    94,
+                    87
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    529,
+                    407,
+                    126,
+                    87
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    646,
+                    437,
+                    85,
+                    122
+                ],
+                "bbox_mode": 1,
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_005.jpg",
+        "image_id": 90,
+        "height": 1600,
+        "width": 1200,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    25,
+                    1,
+                    1157,
+                    1586
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_017.jpg",
+        "image_id": 91,
+        "height": 600,
+        "width": 800,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    206,
+                    55,
+                    336,
+                    542
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_026.jpg",
+        "image_id": 92,
+        "height": 920,
+        "width": 1380,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    258,
+                    29,
+                    832,
+                    881
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_033.jpg",
+        "image_id": 93,
+        "height": 405,
+        "width": 640,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    183,
+                    123,
+                    445,
+                    282
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    63,
+                    587,
+                    281
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_034.jpg",
+        "image_id": 94,
+        "height": 1600,
+        "width": 1200,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    118,
+                    29,
+                    1064,
+                    1571
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_042.jpg",
+        "image_id": 95,
+        "height": 1200,
+        "width": 1600,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    27,
+                    102,
+                    1537,
+                    786
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_056.jpg",
+        "image_id": 96,
+        "height": 304,
+        "width": 450,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    41,
+                    42,
+                    395,
+                    223
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_058.jpg",
+        "image_id": 97,
+        "height": 599,
+        "width": 800,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    595,
+                    203,
+                    97,
+                    143
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    92,
+                    135,
+                    144,
+                    213
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    335,
+                    245,
+                    163,
+                    293
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_063.jpg",
+        "image_id": 98,
+        "height": 225,
+        "width": 300,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    216,
+                    84,
+                    78,
+                    58
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    150,
+                    69,
+                    72
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    76,
+                    23,
+                    132,
+                    115
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    33,
+                    19,
+                    69,
+                    140
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_067.jpg",
+        "image_id": 99,
+        "height": 393,
+        "width": 567,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    4,
+                    5,
+                    563,
+                    388
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_070.jpg",
+        "image_id": 100,
+        "height": 1200,
+        "width": 1600,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    506,
+                    1015,
+                    215,
+                    180
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    623,
+                    27,
+                    200,
+                    315
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    289,
+                    247,
+                    351,
+                    406
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    183,
+                    621,
+                    377,
+                    239
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    892,
+                    946,
+                    452,
+                    185
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1053,
+                    729,
+                    356,
+                    252
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    691,
+                    752,
+                    421,
+                    203
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    771,
+                    558,
+                    309,
+                    285
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    851,
+                    280,
+                    316,
+                    316
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_071.jpg",
+        "image_id": 101,
+        "height": 189,
+        "width": 267,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    172,
+                    141,
+                    37,
+                    47
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    149,
+                    59,
+                    63,
+                    40
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    15,
+                    38,
+                    73,
+                    38
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    91,
+                    3,
+                    40,
+                    57
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    114,
+                    68,
+                    57,
+                    57
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    54,
+                    110,
+                    85,
+                    64
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_074.jpg",
+        "image_id": 102,
+        "height": 720,
+        "width": 960,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    66,
+                    218,
+                    128,
+                    163
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    140,
+                    259,
+                    69,
+                    150
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    575,
+                    161,
+                    78,
+                    174
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    686,
+                    297,
+                    149,
+                    119
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    741,
+                    398,
+                    106,
+                    97
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    664,
+                    408,
+                    107,
+                    81
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    627,
+                    349,
+                    66,
+                    93
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    236,
+                    247,
+                    70,
+                    33
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    335,
+                    237,
+                    66,
+                    51
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    368,
+                    282,
+                    26,
+                    60
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    299,
+                    323,
+                    72,
+                    38
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    267,
+                    412,
+                    55,
+                    100
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    185,
+                    322,
+                    108,
+                    190
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    304,
+                    368,
+                    89,
+                    87
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    404,
+                    274,
+                    135,
+                    80
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    516,
+                    298,
+                    71,
+                    94
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_076.jpg",
+        "image_id": 103,
+        "height": 392,
+        "width": 600,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    164,
+                    55,
+                    47,
+                    38
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    515,
+                    99,
+                    59,
+                    82
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    505,
+                    311,
+                    95,
+                    77
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    254,
+                    3,
+                    211,
+                    196
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    107,
+                    122,
+                    158,
+                    234
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_079.jpg",
+        "image_id": 104,
+        "height": 393,
+        "width": 567,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    22,
+                    11,
+                    539,
+                    363
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatomoldleaf_083.jpg",
+        "image_id": 105,
+        "height": 85,
+        "width": 115,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    76,
+                    22,
+                    35,
+                    53
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    22,
+                    20,
+                    28,
+                    60
+                ],
+                "bbox_mode": 1,
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_007.jpg",
+        "image_id": 106,
+        "height": 550,
+        "width": 550,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    90,
+                    123,
+                    114,
+                    98
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    131,
+                    151,
+                    97,
+                    127
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    167,
+                    199,
+                    89,
+                    143
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_009.jpg",
+        "image_id": 107,
+        "height": 900,
+        "width": 600,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    10,
+                    437,
+                    590,
+                    329
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_020.jpg",
+        "image_id": 108,
+        "height": 540,
+        "width": 452,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    107,
+                    101,
+                    247,
+                    396
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_023.jpg",
+        "image_id": 109,
+        "height": 3264,
+        "width": 2448,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1415,
+                    1383,
+                    470,
+                    595
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1671,
+                    805,
+                    327,
+                    524
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    798,
+                    533,
+                    621,
+                    672
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    28,
+                    90,
+                    490,
+                    719
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    952,
+                    2296,
+                    412,
+                    451
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    704,
+                    2075,
+                    571,
+                    314
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1826,
+                    1037,
+                    540,
+                    614
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    249,
+                    1441,
+                    1208,
+                    587
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    855,
+                    24,
+                    653,
+                    547
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_025.jpg",
+        "image_id": 110,
+        "height": 2036,
+        "width": 3054,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    333,
+                    1133,
+                    896,
+                    889
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1260,
+                    352,
+                    808,
+                    1160
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_030.jpg",
+        "image_id": 111,
+        "height": 260,
+        "width": 350,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    9,
+                    5,
+                    217,
+                    134
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    9,
+                    121,
+                    335,
+                    135
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_031.jpg",
+        "image_id": 112,
+        "height": 2592,
+        "width": 3872,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    7,
+                    1810,
+                    1131
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    190,
+                    1274,
+                    1396,
+                    1318
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1461,
+                    1466,
+                    551,
+                    448
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1875,
+                    811,
+                    1735,
+                    1464
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1870,
+                    507,
+                    1017,
+                    584
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_032.jpg",
+        "image_id": 113,
+        "height": 486,
+        "width": 394,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    3,
+                    383,
+                    478
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_046.jpg",
+        "image_id": 114,
+        "height": 384,
+        "width": 500,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    189,
+                    72,
+                    135,
+                    221
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_050.jpg",
+        "image_id": 115,
+        "height": 240,
+        "width": 355,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    1,
+                    163,
+                    107
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    15,
+                    139,
+                    131,
+                    100
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    173,
+                    47,
+                    164,
+                    169
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_061.jpg",
+        "image_id": 116,
+        "height": 302,
+        "width": 400,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    296,
+                    4,
+                    57,
+                    96
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    234,
+                    7,
+                    62,
+                    78
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    229,
+                    126,
+                    108,
+                    89
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    109,
+                    125,
+                    84,
+                    89
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    55,
+                    116,
+                    62,
+                    148
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_062.jpg",
+        "image_id": 117,
+        "height": 1125,
+        "width": 1500,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    776,
+                    1,
+                    618,
+                    679
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    191,
+                    270,
+                    692,
+                    855
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_063.jpg",
+        "image_id": 118,
+        "height": 150,
+        "width": 200,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    34,
+                    170,
+                    112
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_071.jpg",
+        "image_id": 119,
+        "height": 424,
+        "width": 425,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    1,
+                    193,
+                    107
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    77,
+                    174,
+                    155,
+                    246
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    236,
+                    41,
+                    185,
+                    197
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_075.jpg",
+        "image_id": 120,
+        "height": 384,
+        "width": 500,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    276,
+                    183,
+                    85
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    310,
+                    84,
+                    116,
+                    130
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    408,
+                    198,
+                    85,
+                    147
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    182,
+                    147,
+                    179,
+                    109
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_079.jpg",
+        "image_id": 121,
+        "height": 231,
+        "width": 390,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    3,
+                    6,
+                    383,
+                    224
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_084.jpg",
+        "image_id": 122,
+        "height": 1500,
+        "width": 1125,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    815,
+                    611,
+                    183,
+                    80
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    252,
+                    401,
+                    256,
+                    373
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    439,
+                    788,
+                    313,
+                    344
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    738,
+                    823,
+                    160,
+                    133
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    550,
+                    481,
+                    174,
+                    213
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    435,
+                    421,
+                    153,
+                    194
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_090.jpg",
+        "image_id": 123,
+        "height": 540,
+        "width": 720,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    49,
+                    209,
+                    265,
+                    154
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_097.jpg",
+        "image_id": 124,
+        "height": 2455,
+        "width": 3095,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    2583,
+                    1128,
+                    501,
+                    689
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1,
+                    672,
+                    785,
+                    1535
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1097,
+                    1,
+                    618,
+                    569
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    2381,
+                    29,
+                    714,
+                    1036
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    200,
+                    1490,
+                    1677,
+                    928
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    1307,
+                    938,
+                    430,
+                    374
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    722,
+                    748,
+                    488,
+                    809
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_100.jpg",
+        "image_id": 125,
+        "height": 208,
+        "width": 240,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    166,
+                    30,
+                    36,
+                    45
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    196,
+                    59,
+                    44,
+                    30
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_106.jpg",
+        "image_id": 126,
+        "height": 479,
+        "width": 638,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    313,
+                    102,
+                    306,
+                    213
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    152,
+                    99,
+                    44,
+                    89
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    114,
+                    239,
+                    76,
+                    74
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    167,
+                    207,
+                    58,
+                    83
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    208,
+                    108,
+                    78,
+                    81
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_109.jpg",
+        "image_id": 127,
+        "height": 533,
+        "width": 800,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    182,
+                    110,
+                    540,
+                    382
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_112.jpg",
+        "image_id": 128,
+        "height": 406,
+        "width": 350,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    120,
+                    318,
+                    113,
+                    88
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    218,
+                    161,
+                    119,
+                    237
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    14,
+                    40,
+                    264,
+                    301
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_118.jpg",
+        "image_id": 129,
+        "height": 143,
+        "width": 198,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    15,
+                    16,
+                    176,
+                    123
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_123.jpg",
+        "image_id": 130,
+        "height": 300,
+        "width": 143,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    77,
+                    198,
+                    63,
+                    63
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    11,
+                    9,
+                    128,
+                    198
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_129.jpg",
+        "image_id": 131,
+        "height": 900,
+        "width": 1200,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    270,
+                    380,
+                    161,
+                    343
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    900,
+                    483,
+                    188,
+                    211
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    946,
+                    368,
+                    197,
+                    130
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    798,
+                    508,
+                    172,
+                    230
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    643,
+                    447,
+                    152,
+                    214
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    442,
+                    485,
+                    272,
+                    409
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    495,
+                    255,
+                    195,
+                    186
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_139.jpg",
+        "image_id": 132,
+        "height": 1600,
+        "width": 898,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    25,
+                    37,
+                    835,
+                    1509
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatoseptorialeafspot_140.jpg",
+        "image_id": 133,
+        "height": 272,
+        "width": 600,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    62,
+                    5,
+                    335,
+                    267
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    384,
+                    79,
+                    173,
+                    193
+                ],
+                "bbox_mode": 1,
+                "category_id": 7
+            }
+        ]
+    },
+    {
+        "file_name": "G:\\Meine Ablage\\Dataset\\K-Fold_preaugmented\\Split-4\\test/images\\tomatotwospottedspidermitesleaf_001.jpg",
+        "image_id": 134,
+        "height": 720,
+        "width": 960,
+        "annotations": [
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    45,
+                    385,
+                    381,
+                    330
+                ],
+                "bbox_mode": 1,
+                "category_id": 0
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    283,
+                    81,
+                    195,
+                    231
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    45,
+                    83,
+                    257,
+                    268
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    733,
+                    5,
+                    196,
+                    202
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    599,
+                    5,
+                    114,
+                    178
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    752,
+                    77,
+                    51,
+                    91
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    767,
+                    170,
+                    71,
+                    117
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    818,
+                    209,
+                    142,
+                    153
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            },
+            {
+                "iscrowd": 0,
+                "bbox": [
+                    642,
+                    177,
+                    107,
+                    188
+                ],
+                "bbox_mode": 1,
+                "category_id": 3
+            }
+        ]
+    }
+]
