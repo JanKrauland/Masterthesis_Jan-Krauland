@@ -1,5 +1,5 @@
-train: /content/drive/MyDrive/Dataset/K-Fold/Split-5/train/images 
-val: /content/drive/MyDrive/Dataset/K-Fold/Split-5/test/images
+train: /content/PlantVillage_annotated/K-Fold_preaugmented_same_dist_corrected/Split-5/train/images 
+val: /content/PlantVillage_annotated/K-Fold_preaugmented_same_dist_corrected/Split-5/test/images 
 # test:  # test images (optional)
 
 # Classes
