@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/Dataset/K-Fold/Split-5/train/images 
+val: /content/drive/MyDrive/Dataset/K-Fold/Split-5/test/images
+# test:  # test images (optional)
+
+# Classes
+nc: 8  # number of classes
+names: ['Tomato Early blight leaf', 'Tomato leaf', 'Tomato leaf late blight', 'Tomato leaf bacterial spot', 'Tomato leaf mosaic virus', 'Tomato leaf yellow virus', 'Tomato mold leaf', 'Tomato Septoria leaf spot'] # class names
